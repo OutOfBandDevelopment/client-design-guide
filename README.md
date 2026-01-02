@@ -118,6 +118,15 @@ While this guide is framework-agnostic, companion implementation guides exist fo
 - (Future) Vue + Vuetify implementation
 - (Future) Angular + Angular Material implementation
 
+## Maintenance
+
+See **MAINTENANCE.md** for:
+- Adding new content
+- Document templates and standards
+- Review cycles and quality assurance
+- Contribution guidelines
+- Expansion roadmap
+
 ## Contributing
 
 When adding to this guide:
@@ -126,3 +135,15 @@ When adding to this guide:
 3. Provide concrete examples
 4. Reference industry standards where applicable
 5. Consider accessibility in all recommendations
+
+## Related Projects
+
+This design guide is part of a suite of reusable project templates:
+
+| Project | Description |
+|---------|-------------|
+| `template-project/` | TypeScript code generator templates |
+| `client-design-guide/` | This guide - UX patterns and principles |
+| `client-impersonation-react/` | Role impersonation template |
+
+Each project is standalone and can be used independently.
